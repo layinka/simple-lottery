@@ -1,4 +1,4 @@
-# hardhat-starter-kit-typescript
+# Simple Lottery
 
 Clone and install dependencies
 
@@ -31,36 +31,6 @@ One of the best ways to test and interact with smart contracts is with a local n
 npx hardhat node
 ```
 
-# Test
 
-Tests are located in the [test](./test/) directory, and are split between unit tests and staging/testnet tests. Unit tests should only be run on local environments, and staging tests should only run on live environments.
-
-To run unit tests:
-
-```bash
-npx test
-```
-
-or
-
-```
-npx hardhat test
-```
-
-To run staging tests on Rinkeby network:
-
-```bash
-npx test-staging
-```
-
-or
-
-```
-npx hardhat test --network rinkeby
-```
-
-# Contributing
-
-Contributions are always welcome! Open a PR or an issue!
 
 # Thank You!
